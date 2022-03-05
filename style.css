@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/football.jpeg");
+    text-align: center;
+    margin-top: 150px;
+}
+
+#canvas {
+    background-color: white;
+}
